@@ -1,0 +1,2 @@
+export const GET_CONTACTS = "GET_CONTACTS"
+export const GET_ONE_CONTACT = "GET_ONE_CONTACT"
